@@ -1,0 +1,11 @@
+body {
+    background-image:url(../img/pattern.png);
+}
+.carousel-item {
+    max-height: 100vh;
+}
+.logo {
+    height: 40px;
+    width: auto;
+    cursor: pointer;
+}
