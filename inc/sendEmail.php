@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'rami_200_2@hotmail.com';
+$siteOwnersEmail = 'hola@thebolt-studio';
 
 
 if($_POST) {
